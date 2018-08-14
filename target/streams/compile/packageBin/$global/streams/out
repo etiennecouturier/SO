@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\scala\Practice\target\scala-2.12\practice_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LongestCommonPrefix$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\LongestCommonPrefix$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BullsAndCows$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\BullsAndCows$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BadVersion$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\BadVersion$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BadVersion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\BadVersion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LongestCommonPrefix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\LongestCommonPrefix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPalindrom$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\ShortestPalindrom$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BullsAndCows.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\BullsAndCows.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BadVersion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\BadVersion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BullsAndCows$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\BullsAndCows$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPalindrom$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\ShortestPalindrom$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LongestCommonPrefix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\LongestCommonPrefix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShortestPalindrom.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\scala\Practice\target\scala-2.12\classes\ShortestPalindrom.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

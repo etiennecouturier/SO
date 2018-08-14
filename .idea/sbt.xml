@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" value="C:\dev\apps\sbt\bin\sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:\dev\apps\zulu-openjdk-v8.0.112" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="D:\scala\Practice" />
+        <option name="useAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="1024" />
+    <option name="vmParameters" value="-Dhttp.proxyHost=proxyweb.lefoyer.lu -Dhttp.proxyPort=8080 -Dhttp.nonProxyHosts=&quot;*.lefoyer.lu|*.foyer.lu|localhost|127.0.0.1&quot; -Dhttps.proxyHost=proxyweb.lefoyer.lu -Dhttps.proxyPort=8080 -Dhttps.nonProxyHosts=&quot;*.lefoyer.lu|*.foyer.lu|localhost|127.0.0.1&quot; -Dsbt.repository.config=F:/.sbt/repositories -Dsbt.override.build.repos=true -Xms2048m -Xmx2048m -XX:ReservedCodeCacheSize=256m -XX:MaxMetaspaceSize=512m -XX:+CMSClassUnloadingEnabled" />
+  </component>
+</project>
